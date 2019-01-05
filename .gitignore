@@ -7,3 +7,4 @@ config/*.json
 secrets
 functions
 networks/1234.json
+package-lock.json
