@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="etherplate" width="880"></p>
+
 # Etherplate
 
 ![etherplate red block logo](https://raw.githubusercontent.com/chuckbergeron/etherplate/master/app/images/logos/etherplate-logo--red--lg.png)
